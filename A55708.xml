@@ -1,0 +1,3252 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The present state and list of the children of His Late Majesty King Charles II his new royal foundation in Christ's-Hospital, presented ... to their Most Sacred Majesties, K. William and Q. Mary / by the Lord Mayor of the city of London, with the President and Governours of the said hospital, the first day of January, 1689/90.</title>
+            <author>Christ's Hospital (London, England)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55708</idno>
+            <idno type="STC">Wing P3254</idno>
+            <idno type="STC">ESTC R15867</idno>
+            <idno type="EEBO-CITATION">12280045</idno>
+            <idno type="OCLC">ocm 12280045</idno>
+            <idno type="VID">58667</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55708)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 58667)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 875:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The present state and list of the children of His Late Majesty King Charles II his new royal foundation in Christ's-Hospital, presented ... to their Most Sacred Majesties, K. William and Q. Mary / by the Lord Mayor of the city of London, with the President and Governours of the said hospital, the first day of January, 1689/90.</title>
+                  <author>Christ's Hospital (London, England)</author>
+               </titleStmt>
+               <extent>[10] p. : ill., tables.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1689/90]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>"Children put forth apprentices to the practice of navigation, according to His Late Majesty's most gracious purposes in this His institution" p. [2]-[9]</note>
+                  <note>"The forty children ... within said hospital, with their present age" p. [10]</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christ's Hospital (London, England) --  Registers.</term>
+               <term>Charity-schools --  England --  London.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:58667:1"/>
+            <pb facs="tcp:58667:1" rendition="simple:additions"/>
+            <p>THE Preſent State and Liſt OF THE CHILDREN Of His Late MAJESTY KING CHARLES II.</p>
+            <p>HIS NEW ROYAL FOUNDATION IN Chriſt's-Hoſpital, Preſented in all Humility and Duty TO THEIR Moſt Sacred MAJESTIES, <hi>K. William and Q. Mary,</hi> BY THE LORD MAYOR of the City of <hi>LONDON,</hi> With the Preſident and Governours of the ſaid Hoſpital, the Firſt Day of <hi>January,</hi> 1689/90.</p>
+         </div>
+      </front>
+      <body>
+         <div type="table">
+            <pb facs="tcp:58667:2"/>
+            <head>
+               <hi>CHILDREN</hi> put forth <hi>Apprentices</hi> to the Practice of <hi>NAVIGATION,</hi> according to His late <hi>MAJESTY</hi>'s moſt Gracious Purpoſes in this His <hi>Inſtitution.</hi>
+            </head>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label" rows="3">CHILDREN.</cell>
+                     <cell role="label" cols="4">Date of INDENTURE and AGE at their being bound out.</cell>
+                     <cell role="label" rows="3">NAMES of their MASTERS.</cell>
+                     <cell role="label" rows="3">
+                        <hi>NAMES of their SHIPS.</hi>
+                     </cell>
+                     <cell role="label" rows="3">On what TRADE.</cell>
+                     <cell role="label" rows="3" cols="2">
+                        <hi>The beginning of the Seventh Year of their</hi> Service <hi>to be at the diſpoſal of</hi> HIS MAJESTY.</cell>
+                  </row>
+                  <row>
+                     <cell role="label" rows="2">
+                        <hi>MONTH.</hi>
+                     </cell>
+                     <cell role="label" rows="2">
+                        <hi>YEAR.</hi>
+                     </cell>
+                     <cell role="label" cols="2">
+                        <hi>AGE.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label">Years.</cell>
+                     <cell role="label">Quart.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>BEnjamin Waters</hi>
+                     </cell>
+                     <cell>October</cell>
+                     <cell>1675.</cell>
+                     <cell>14</cell>
+                     <cell>2</cell>
+                     <cell>
+                        <hi>James Marriner</hi>
+                     </cell>
+                     <cell>Formoſa</cell>
+                     <cell>
+                        <hi>Eaſt-Indies</hi>
+                     </cell>
+                     <cell>October</cell>
+                     <cell>1681.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Harriſſon</hi>
+                     </cell>
+                     <cell>October</cell>
+                     <cell>1675.</cell>
+                     <cell>15</cell>
+                     <cell>3</cell>
+                     <cell>
+                        <hi>James Marriner</hi>
+                     </cell>
+                     <cell>Formoſa</cell>
+                     <cell>
+                        <hi>Eaſt-Indies</hi>
+                     </cell>
+                     <cell>October</cell>
+                     <cell>1681.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Robert Hall</hi>
+                     </cell>
+                     <cell>January</cell>
+                     <cell>1675.</cell>
+                     <cell>17</cell>
+                     <cell>0</cell>
+                     <cell>
+                        <hi>Robert Bell</hi>
+                     </cell>
+                     <cell>Prudence</cell>
+                     <cell>
+                        <hi>Guynny</hi>
+                     </cell>
+                     <cell>January</cell>
+                     <cell>1681.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Joſeph Bradfield</hi>
+                     </cell>
+                     <cell>January</cell>
+                     <cell>1675.</cell>
+                     <cell>15</cell>
+                     <cell>0</cell>
+                     <cell>
+                        <hi>John Embleton</hi>
+                     </cell>
+                     <cell>Diligence</cell>
+                     <cell>
+                        <hi>Guynny</hi>
+                     </cell>
+                     <cell>January</cell>
+                     <cell>1681.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Hudſon</hi>
+                     </cell>
+                     <cell>January</cell>
+                     <cell>1675.</cell>
+                     <cell>16</cell>
+                     <cell>0</cell>
+                     <cell>
+                        <hi>Richard Goodladd</hi>
+                     </cell>
+                     <cell>Lancaſter</cell>
+                     <cell>
+                        <hi>Eaſt-Indies</hi>
+                     </cell>
+                     <cell>January</cell>
+                     <cell>1681.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Bartholomew Piggot</hi>
+                     </cell>
+                     <cell>January</cell>
+                     <cell>1675.</cell>
+                     <cell>15</cell>
+                     <cell>1</cell>
+                     <cell>
+                        <hi>William Stannard</hi>
+                     </cell>
+                     <cell>Nathaniel</cell>
+                     <cell>
+                        <hi>Eaſt-Indies</hi>
+                     </cell>
+                     <cell>January</cell>
+                     <cell>1681.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Edward Child</hi>
+                     </cell>
+                     <cell>January</cell>
+                     <cell>1675.</cell>
+                     <cell>14</cell>
+                     <cell>0</cell>
+                     <cell>
+                        <hi>Nathaniel Owen</hi>
+                     </cell>
+                     <cell>Expectation</cell>
+                     <cell>
+                        <hi>Eaſt-Indies</hi>
+                     </cell>
+                     <cell>January</cell>
+                     <cell>1681.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Yarroway</hi>
+                     </cell>
+                     <cell>January</cell>
+                     <cell>1675.</cell>
+                     <cell>17</cell>
+                     <cell>0</cell>
+                     <cell>
+                        <hi>Thomas Hall</hi>
+                     </cell>
+                     <cell>Loyal Merchant</cell>
+                     <cell>
+                        <hi>Eaſt-Indies</hi>
+                     </cell>
+                     <cell>January</cell>
+                     <cell>1681.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Waddington</hi>
+                     </cell>
+                     <cell>January</cell>
+                     <cell>1675.</cell>
+                     <cell>17</cell>
+                     <cell>2</cell>
+                     <cell>
+                        <hi>John Bowers</hi>
+                     </cell>
+                     <cell>Perſian Merchant</cell>
+                     <cell>
+                        <hi>Eaſt-Indies</hi>
+                     </cell>
+                     <cell>January</cell>
+                     <cell>1681.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Yarroway</hi>
+                     </cell>
+                     <cell>January</cell>
+                     <cell>1675.</cell>
+                     <cell>16</cell>
+                     <cell>0</cell>
+                     <cell>
+                        <hi>Edward Cooke</hi>
+                     </cell>
+                     <cell>Scipio African</cell>
+                     <cell>
+                        <hi>Eaſt-Indies</hi>
+                     </cell>
+                     <cell>January</cell>
+                     <cell>1681.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Harvell</hi>
+                     </cell>
+                     <cell>January</cell>
+                     <cell>1675.</cell>
+                     <cell>15</cell>
+                     <cell>1</cell>
+                     <cell>
+                        <hi>Jonathan Hide</hi>
+                     </cell>
+                     <cell>Preſident</cell>
+                     <cell>
+                        <hi>Eaſt-Indies</hi>
+                     </cell>
+                     <cell>January</cell>
+                     <cell>1681.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Palmer</hi>
+                     </cell>
+                     <cell>January</cell>
+                     <cell>1675.</cell>
+                     <cell>15</cell>
+                     <cell>0</cell>
+                     <cell>
+                        <hi>Robert Fiſher</hi>
+                     </cell>
+                     <cell>Berkley Caſtle</cell>
+                     <cell>
+                        <hi>Eaſt-Indies</hi>
+                     </cell>
+                     <cell>January</cell>
+                     <cell>1681.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Wallis</hi>
+                     </cell>
+                     <cell>January</cell>
+                     <cell>1675.</cell>
+                     <cell>16</cell>
+                     <cell>0</cell>
+                     <cell>
+                        <hi>William Wildley</hi>
+                     </cell>
+                     <cell>Phoenix</cell>
+                     <cell>
+                        <hi>Eaſt-Indies</hi>
+                     </cell>
+                     <cell>January</cell>
+                     <cell>1681.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>James Williams</hi>
+                     </cell>
+                     <cell>January</cell>
+                     <cell>1675.</cell>
+                     <cell>16</cell>
+                     <cell>0</cell>
+                     <cell>
+                        <hi>William Tompſon</hi>
+                     </cell>
+                     <cell>Society</cell>
+                     <cell>
+                        <hi>Eaſt-Indies</hi>
+                     </cell>
+                     <cell>January</cell>
+                     <cell>1681.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Goodwin</hi>
+                     </cell>
+                     <cell>March</cell>
+                     <cell>1676.</cell>
+                     <cell>15</cell>
+                     <cell>1</cell>
+                     <cell>
+                        <hi>William Sanderſon</hi>
+                     </cell>
+                     <cell>Eaſtland Merchant</cell>
+                     <cell>
+                        <hi>Dantzick,</hi> &amp;c.</cell>
+                     <cell>March</cell>
+                     <cell>1682.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Samuel Ford</hi>
+                     </cell>
+                     <cell>May</cell>
+                     <cell>1676.</cell>
+                     <cell>16</cell>
+                     <cell>0</cell>
+                     <cell>
+                        <hi>William Morris</hi>
+                     </cell>
+                     <cell>Scipio</cell>
+                     <cell>
+                        <hi>Scanderoon</hi>
+                     </cell>
+                     <cell>May</cell>
+                     <cell>1682.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Robert Plaskett</hi>
+                     </cell>
+                     <cell>May</cell>
+                     <cell>1676.</cell>
+                     <cell>14</cell>
+                     <cell>3</cell>
+                     <cell>
+                        <hi>Richard North</hi>
+                     </cell>
+                     <cell>Thomas <hi>and</hi> William</cell>
+                     <cell>
+                        <hi>Scandaroon</hi>
+                     </cell>
+                     <cell>May</cell>
+                     <cell>1682.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Richard Green</hi>
+                     </cell>
+                     <cell>September</cell>
+                     <cell>1676.</cell>
+                     <cell>15</cell>
+                     <cell>1</cell>
+                     <cell>
+                        <hi>Bartholomew Clement</hi>
+                     </cell>
+                     <cell>Fortune</cell>
+                     <cell>
+                        <hi>Virginia</hi>
+                     </cell>
+                     <cell>September</cell>
+                     <cell>1682.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Richard Withers</hi>
+                     </cell>
+                     <cell>October</cell>
+                     <cell>1676.</cell>
+                     <cell>16</cell>
+                     <cell>2</cell>
+                     <cell>
+                        <hi>Elias Clap</hi>
+                     </cell>
+                     <cell>Aſia</cell>
+                     <cell>
+                        <hi>Smyrna</hi>
+                     </cell>
+                     <cell>October</cell>
+                     <cell>1682.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Tilford</hi>
+                     </cell>
+                     <cell>October</cell>
+                     <cell>1676.</cell>
+                     <cell>17</cell>
+                     <cell>0</cell>
+                     <cell>
+                        <hi>John Kempthorne</hi>
+                     </cell>
+                     <cell>Turkey Merchant</cell>
+                     <cell>
+                        <hi>Smyrna</hi>
+                     </cell>
+                     <cell>October</cell>
+                     <cell>1682.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Pargeter</hi>
+                     </cell>
+                     <cell>December</cell>
+                     <cell>1676.</cell>
+                     <cell>16</cell>
+                     <cell>3</cell>
+                     <cell>
+                        <hi>Thomas Andrews</hi>
+                     </cell>
+                     <cell>Caeſar</cell>
+                     <cell>
+                        <hi>Eaſt-Indies</hi>
+                     </cell>
+                     <cell>December</cell>
+                     <cell>1682.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Charles Rowe</hi>
+                     </cell>
+                     <cell>December</cell>
+                     <cell>1676.</cell>
+                     <cell>17</cell>
+                     <cell>2</cell>
+                     <cell>
+                        <hi>John Golsbrough</hi>
+                     </cell>
+                     <cell>Bengall Merchant</cell>
+                     <cell>
+                        <hi>Eaſt-Indies</hi>
+                     </cell>
+                     <cell>December</cell>
+                     <cell>1682.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Hart</hi>
+                     </cell>
+                     <cell>December</cell>
+                     <cell>1676.</cell>
+                     <cell>16</cell>
+                     <cell>2</cell>
+                     <cell>
+                        <hi>James Cooke</hi>
+                     </cell>
+                     <cell>Eaſt-India Merchant</cell>
+                     <cell>
+                        <hi>Eaſt-Indies</hi>
+                     </cell>
+                     <cell>December</cell>
+                     <cell>1682.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Alderne</hi>
+                     </cell>
+                     <cell>December</cell>
+                     <cell>1676.</cell>
+                     <cell>14</cell>
+                     <cell>1</cell>
+                     <cell>
+                        <hi>George Erwin</hi>
+                     </cell>
+                     <cell>New London</cell>
+                     <cell>
+                        <hi>Eaſt-Indies</hi>
+                     </cell>
+                     <cell>December</cell>
+                     <cell>1682.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Trueblood</hi>
+                     </cell>
+                     <cell>December</cell>
+                     <cell>1676.</cell>
+                     <cell>17</cell>
+                     <cell>3</cell>
+                     <cell>
+                        <hi>John North</hi>
+                     </cell>
+                     <cell>Golden Fleece</cell>
+                     <cell>
+                        <hi>Eaſt-Indies</hi>
+                     </cell>
+                     <cell>December</cell>
+                     <cell>1682.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Chamberlen</hi>
+                     </cell>
+                     <cell>May</cell>
+                     <cell>1677.</cell>
+                     <cell>16</cell>
+                     <cell>1</cell>
+                     <cell>
+                        <hi>James Kendall</hi>
+                     </cell>
+                     <cell>Clara</cell>
+                     <cell>
+                        <hi>Jamaica</hi>
+                     </cell>
+                     <cell>May</cell>
+                     <cell>1683.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Roberts</hi>
+                     </cell>
+                     <cell>June</cell>
+                     <cell>1677.</cell>
+                     <cell>16</cell>
+                     <cell>0</cell>
+                     <cell>
+                        <hi>Daniel Parſon</hi>
+                     </cell>
+                     <cell>Providence Merchant</cell>
+                     <cell>
+                        <hi>Lisbon</hi>
+                     </cell>
+                     <cell>June</cell>
+                     <cell>1683.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Robert Devall</hi>
+                     </cell>
+                     <cell>June</cell>
+                     <cell>1677.</cell>
+                     <cell>15</cell>
+                     <cell>3</cell>
+                     <cell>
+                        <hi>Thomas Lovell</hi>
+                     </cell>
+                     <cell>New Catharine Yatch</cell>
+                     <cell>
+                        <hi>In His Majeſty's Service</hi>
+                     </cell>
+                     <cell>June</cell>
+                     <cell>1683.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Strange</hi>
+                     </cell>
+                     <cell>July</cell>
+                     <cell>1677.</cell>
+                     <cell>16</cell>
+                     <cell>2</cell>
+                     <cell>
+                        <hi>Percival Granger</hi>
+                     </cell>
+                     <cell>Caſtle Frigot</cell>
+                     <cell>
+                        <hi>Streights</hi>
+                     </cell>
+                     <cell>July</cell>
+                     <cell>1683.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Joſeph Terry</hi>
+                     </cell>
+                     <cell>July</cell>
+                     <cell>1677.</cell>
+                     <cell>15</cell>
+                     <cell>2</cell>
+                     <cell>
+                        <hi>Matthew Yates</hi>
+                     </cell>
+                     <cell>Recovery</cell>
+                     <cell>
+                        <hi>Jamaica</hi>
+                     </cell>
+                     <cell>July</cell>
+                     <cell>1683.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Robert Fanner</hi>
+                     </cell>
+                     <cell>Auguſt</cell>
+                     <cell>1677.</cell>
+                     <cell>15</cell>
+                     <cell>1</cell>
+                     <cell>
+                        <hi>Thomas Browne</hi>
+                     </cell>
+                     <cell>Legorn Merchant</cell>
+                     <cell>
+                        <hi>Canaries</hi>
+                     </cell>
+                     <cell>Auguſt</cell>
+                     <cell>1683.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Abraham Dumbleton</hi>
+                     </cell>
+                     <cell>Auguſt</cell>
+                     <cell>1677.</cell>
+                     <cell>15</cell>
+                     <cell>2</cell>
+                     <cell>
+                        <hi>James Kendall</hi>
+                     </cell>
+                     <cell>Clara</cell>
+                     <cell>
+                        <hi>Jamaica</hi>
+                     </cell>
+                     <cell>Auguſt</cell>
+                     <cell>1683.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>James Applin</hi>
+                     </cell>
+                     <cell>Auguſt</cell>
+                     <cell>1677.</cell>
+                     <cell>15</cell>
+                     <cell>2</cell>
+                     <cell>
+                        <hi>Robert Morris</hi>
+                     </cell>
+                     <cell>Young Prince</cell>
+                     <cell>
+                        <hi>Virginia</hi>
+                     </cell>
+                     <cell>Auguſt</cell>
+                     <cell>1683.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Hulker</hi>
+                     </cell>
+                     <cell>Auguſt</cell>
+                     <cell>1677.</cell>
+                     <cell>15</cell>
+                     <cell>3</cell>
+                     <cell>
+                        <hi>Thomas Gerdis</hi>
+                     </cell>
+                     <cell>Coaſter</cell>
+                     <cell>
+                        <hi>Guynny</hi>
+                     </cell>
+                     <cell>Auguſt</cell>
+                     <cell>1683.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Edward Flood</hi>
+                     </cell>
+                     <cell>September</cell>
+                     <cell>1677.</cell>
+                     <cell>16</cell>
+                     <cell>2</cell>
+                     <cell>
+                        <hi>Joſeph Wilde</hi>
+                     </cell>
+                     <cell>Prince</cell>
+                     <cell>
+                        <hi>Jamaica</hi>
+                     </cell>
+                     <cell>September</cell>
+                     <cell>1683.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Robert Harvill</hi>
+                     </cell>
+                     <cell>February</cell>
+                     <cell>1677.</cell>
+                     <cell>16</cell>
+                     <cell>2</cell>
+                     <cell>
+                        <hi>Samuel Chamblett</hi>
+                     </cell>
+                     <cell>Sampſon</cell>
+                     <cell>
+                        <hi>Eaſt-Indies</hi>
+                     </cell>
+                     <cell>February</cell>
+                     <cell>1683.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Flint</hi>
+                     </cell>
+                     <cell>February</cell>
+                     <cell>1677.</cell>
+                     <cell>15</cell>
+                     <cell>3</cell>
+                     <cell>
+                        <hi>Hopeful Bendall</hi>
+                     </cell>
+                     <cell>Joanna</cell>
+                     <cell>
+                        <hi>Eaſt-Indies</hi>
+                     </cell>
+                     <cell>February</cell>
+                     <cell>1683.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Bloodworth</hi>
+                     </cell>
+                     <cell>February</cell>
+                     <cell>1677.</cell>
+                     <cell>15</cell>
+                     <cell>0</cell>
+                     <cell>
+                        <hi>John Slade</hi>
+                     </cell>
+                     <cell>Unicorn</cell>
+                     <cell>
+                        <hi>Eaſt-Indies</hi>
+                     </cell>
+                     <cell>February</cell>
+                     <cell>1683.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Standley</hi>
+                     </cell>
+                     <cell>July</cell>
+                     <cell>1678.</cell>
+                     <cell>16</cell>
+                     <cell>0</cell>
+                     <cell>
+                        <hi>John Williams</hi>
+                     </cell>
+                     <cell>William <hi>and</hi> John</cell>
+                     <cell>
+                        <hi>Streights</hi>
+                     </cell>
+                     <cell>July</cell>
+                     <cell>1684.</cell>
+                  </row>
+                  <pb facs="tcp:58667:2"/>
+                  <pb facs="tcp:58667:3"/>
+                  <row>
+                     <cell>
+                        <hi>John Webb</hi>
+                     </cell>
+                     <cell>July</cell>
+                     <cell>1678.</cell>
+                     <cell>16</cell>
+                     <cell>0</cell>
+                     <cell>
+                        <hi>Robert Wood</hi>
+                     </cell>
+                     <cell>Benjamin</cell>
+                     <cell>
+                        <hi>Cadis</hi>
+                     </cell>
+                     <cell>July</cell>
+                     <cell>1684.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Robert Gooderidge</hi>
+                     </cell>
+                     <cell>Auguſt</cell>
+                     <cell>1678.</cell>
+                     <cell>15</cell>
+                     <cell>1</cell>
+                     <cell>
+                        <hi>William Hogborne</hi>
+                     </cell>
+                     <cell>Merchant's Goodwill</cell>
+                     <cell>
+                        <hi>Cadis</hi>
+                     </cell>
+                     <cell>Auguſt</cell>
+                     <cell>1684.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Cornelius Leake</hi>
+                     </cell>
+                     <cell>Auguſt</cell>
+                     <cell>1678.</cell>
+                     <cell>16</cell>
+                     <cell>1</cell>
+                     <cell>
+                        <hi>John Ferne</hi>
+                     </cell>
+                     <cell>Segovia Merchant</cell>
+                     <cell>
+                        <hi>Canaries</hi>
+                     </cell>
+                     <cell>Auguſt</cell>
+                     <cell>1684.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Francis Oakes</hi>
+                     </cell>
+                     <cell>September</cell>
+                     <cell>1678.</cell>
+                     <cell>16</cell>
+                     <cell>2</cell>
+                     <cell>
+                        <hi>Nathaniel Pecket</hi>
+                     </cell>
+                     <cell>Providence</cell>
+                     <cell>
+                        <hi>Streights</hi>
+                     </cell>
+                     <cell>September</cell>
+                     <cell>1684.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Blackborne</hi>
+                     </cell>
+                     <cell>September</cell>
+                     <cell>1678.</cell>
+                     <cell>16</cell>
+                     <cell>1</cell>
+                     <cell>
+                        <hi>Ellis Osborne</hi>
+                     </cell>
+                     <cell>James <hi>of</hi> London</cell>
+                     <cell>
+                        <hi>Canaries</hi>
+                     </cell>
+                     <cell>September</cell>
+                     <cell>1684.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Medcalf</hi>
+                     </cell>
+                     <cell>September</cell>
+                     <cell>1678.</cell>
+                     <cell>15</cell>
+                     <cell>3</cell>
+                     <cell>
+                        <hi>John Jacobs</hi>
+                     </cell>
+                     <cell>Andaluzer</cell>
+                     <cell>
+                        <hi>Cadis</hi>
+                     </cell>
+                     <cell>September</cell>
+                     <cell>1684.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>James Thomas</hi>
+                     </cell>
+                     <cell>January</cell>
+                     <cell>1678.</cell>
+                     <cell>14</cell>
+                     <cell>3</cell>
+                     <cell>
+                        <hi>James Bolton</hi>
+                     </cell>
+                     <cell>John <hi>and</hi> Nicholas</cell>
+                     <cell>
+                        <hi>Bourdeaux</hi>
+                     </cell>
+                     <cell>January</cell>
+                     <cell>1684.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Price</hi>
+                     </cell>
+                     <cell>January</cell>
+                     <cell>1678.</cell>
+                     <cell>16</cell>
+                     <cell>2</cell>
+                     <cell>
+                        <hi>Robert Smith</hi>
+                     </cell>
+                     <cell>Mary</cell>
+                     <cell>
+                        <hi>Barbadoes</hi>
+                     </cell>
+                     <cell>January</cell>
+                     <cell>1684.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Jole</hi>
+                     </cell>
+                     <cell>February</cell>
+                     <cell>1678.</cell>
+                     <cell>15</cell>
+                     <cell>0</cell>
+                     <cell>
+                        <hi>Richard Neal</hi>
+                     </cell>
+                     <cell>Recovery</cell>
+                     <cell>
+                        <hi>Aligant</hi>
+                     </cell>
+                     <cell>February</cell>
+                     <cell>1684.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Jarman</hi>
+                     </cell>
+                     <cell>February</cell>
+                     <cell>1678.</cell>
+                     <cell>14</cell>
+                     <cell>2</cell>
+                     <cell>
+                        <hi>Thomas Blake</hi>
+                     </cell>
+                     <cell>Aligant</cell>
+                     <cell>
+                        <hi>Streights</hi>
+                     </cell>
+                     <cell>February</cell>
+                     <cell>1684.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Raymond Hill</hi>
+                     </cell>
+                     <cell>February</cell>
+                     <cell>1678.</cell>
+                     <cell>16</cell>
+                     <cell>0</cell>
+                     <cell>
+                        <hi>Shilling Terry</hi>
+                     </cell>
+                     <cell>Sea-Flower</cell>
+                     <cell>
+                        <hi>Cadis</hi>
+                     </cell>
+                     <cell>February</cell>
+                     <cell>1684.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Savil Wright</hi>
+                     </cell>
+                     <cell>April</cell>
+                     <cell>1679.</cell>
+                     <cell>16</cell>
+                     <cell>0</cell>
+                     <cell>
+                        <hi>John Price</hi>
+                     </cell>
+                     <cell>Hope</cell>
+                     <cell>
+                        <hi>Barbadoes</hi>
+                     </cell>
+                     <cell>April</cell>
+                     <cell>1685.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Fiſher</hi>
+                     </cell>
+                     <cell>Auguſt</cell>
+                     <cell>1679.</cell>
+                     <cell>16</cell>
+                     <cell>2</cell>
+                     <cell>
+                        <hi>Elias Clifford</hi>
+                     </cell>
+                     <cell>Malaga Factor</cell>
+                     <cell>
+                        <hi>Cadis</hi>
+                     </cell>
+                     <cell>Auguſt</cell>
+                     <cell>1685.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Deliverance Cotterel</hi>
+                     </cell>
+                     <cell>Auguſt</cell>
+                     <cell>1679.</cell>
+                     <cell>15</cell>
+                     <cell>1</cell>
+                     <cell>
+                        <hi>John Conſett</hi>
+                     </cell>
+                     <cell>Mary</cell>
+                     <cell>
+                        <hi>Virginia</hi>
+                     </cell>
+                     <cell>Auguſt</cell>
+                     <cell>1685.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Henry Cordwell</hi>
+                     </cell>
+                     <cell>September</cell>
+                     <cell>1679.</cell>
+                     <cell>14</cell>
+                     <cell>3</cell>
+                     <cell>
+                        <hi>Nathan Reynolds</hi>
+                     </cell>
+                     <cell>Surat Merchant</cell>
+                     <cell>
+                        <hi>Virginia</hi>
+                     </cell>
+                     <cell>September</cell>
+                     <cell>1685.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Day</hi>
+                     </cell>
+                     <cell>September</cell>
+                     <cell>1679.</cell>
+                     <cell>14</cell>
+                     <cell>1</cell>
+                     <cell>
+                        <hi>Robert Seaman</hi>
+                     </cell>
+                     <cell>Alopean</cell>
+                     <cell>
+                        <hi>Guynny</hi>
+                     </cell>
+                     <cell>September</cell>
+                     <cell>1685.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Martin</hi>
+                     </cell>
+                     <cell>January</cell>
+                     <cell>1679.</cell>
+                     <cell>14</cell>
+                     <cell>1</cell>
+                     <cell>
+                        <hi>Samuel Roberts</hi>
+                     </cell>
+                     <cell>Thameſis <hi>of</hi> London</cell>
+                     <cell>
+                        <hi>Streights</hi>
+                     </cell>
+                     <cell>January</cell>
+                     <cell>1685.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Sturmey</hi>
+                     </cell>
+                     <cell>January</cell>
+                     <cell>1679.</cell>
+                     <cell>13</cell>
+                     <cell>0</cell>
+                     <cell>
+                        <hi>John Jewel</hi>
+                     </cell>
+                     <cell>Batchelour</cell>
+                     <cell>
+                        <hi>Barbadoes</hi>
+                     </cell>
+                     <cell>January</cell>
+                     <cell>1685.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Edward Richards</hi>
+                     </cell>
+                     <cell>January</cell>
+                     <cell>1679.</cell>
+                     <cell>15</cell>
+                     <cell>2</cell>
+                     <cell>
+                        <hi>David Lockwood</hi>
+                     </cell>
+                     <cell>Dragon</cell>
+                     <cell>
+                        <hi>Jamaica</hi>
+                     </cell>
+                     <cell>January</cell>
+                     <cell>1685.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Richard Hodgskins</hi>
+                     </cell>
+                     <cell>January</cell>
+                     <cell>1679.</cell>
+                     <cell>14</cell>
+                     <cell>0</cell>
+                     <cell>
+                        <hi>Peter Blake</hi>
+                     </cell>
+                     <cell>Elizabeth</cell>
+                     <cell>
+                        <hi>Jamaica</hi>
+                     </cell>
+                     <cell>January</cell>
+                     <cell>1685.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Robert Stapleton</hi>
+                     </cell>
+                     <cell>March</cell>
+                     <cell>1679.</cell>
+                     <cell>13</cell>
+                     <cell>2</cell>
+                     <cell>
+                        <hi>Thomas Daniel</hi>
+                     </cell>
+                     <cell>Jeruſalem</cell>
+                     <cell>
+                        <hi>Cadis</hi>
+                     </cell>
+                     <cell>March</cell>
+                     <cell>1685.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Howman</hi>
+                     </cell>
+                     <cell>March</cell>
+                     <cell>1679.</cell>
+                     <cell>13</cell>
+                     <cell>0</cell>
+                     <cell>
+                        <hi>Richard Cobb</hi>
+                     </cell>
+                     <cell>Reſolution</cell>
+                     <cell>
+                        <hi>Barbadoes</hi>
+                     </cell>
+                     <cell>March</cell>
+                     <cell>1685.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Charles Sherborne</hi>
+                     </cell>
+                     <cell>March</cell>
+                     <cell>1680.</cell>
+                     <cell>14</cell>
+                     <cell>3</cell>
+                     <cell>
+                        <hi>Samual Jones</hi>
+                     </cell>
+                     <cell>Goannabo</cell>
+                     <cell>
+                        <hi>Jamaica</hi>
+                     </cell>
+                     <cell>March</cell>
+                     <cell>1686.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Charles Coats</hi>
+                     </cell>
+                     <cell>April</cell>
+                     <cell>1680.</cell>
+                     <cell>15</cell>
+                     <cell>3</cell>
+                     <cell>
+                        <hi>Richard Greenway</hi>
+                     </cell>
+                     <cell>Prudent Mary</cell>
+                     <cell>
+                        <hi>Hudſon's Bay</hi>
+                     </cell>
+                     <cell>April</cell>
+                     <cell>1686.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Nicholas Wheatly</hi>
+                     </cell>
+                     <cell>May</cell>
+                     <cell>1680.</cell>
+                     <cell>15</cell>
+                     <cell>0</cell>
+                     <cell>
+                        <hi>Edward Good</hi>
+                     </cell>
+                     <cell>Goodwill</cell>
+                     <cell>
+                        <hi>Streights</hi>
+                     </cell>
+                     <cell>May</cell>
+                     <cell>1686.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Iſaac Ward</hi>
+                     </cell>
+                     <cell>July</cell>
+                     <cell>1680.</cell>
+                     <cell>12</cell>
+                     <cell>0</cell>
+                     <cell>
+                        <hi>Robert Conaway</hi>
+                     </cell>
+                     <cell>Prince</cell>
+                     <cell>
+                        <hi>Virginia</hi>
+                     </cell>
+                     <cell>July</cell>
+                     <cell>1686.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Samuel Burgis</hi>
+                     </cell>
+                     <cell>February</cell>
+                     <cell>1680.</cell>
+                     <cell>16</cell>
+                     <cell>0</cell>
+                     <cell>
+                        <hi>Chriſtopher Ravens</hi>
+                     </cell>
+                     <cell>Loyal Goring</cell>
+                     <cell>
+                        <hi>Barbadoes</hi>
+                     </cell>
+                     <cell>February</cell>
+                     <cell>1686.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Drayner</hi>
+                     </cell>
+                     <cell>February</cell>
+                     <cell>1680.</cell>
+                     <cell>16</cell>
+                     <cell>2</cell>
+                     <cell>
+                        <hi>Joſeph Haddock</hi>
+                     </cell>
+                     <cell>Maſſenburgh</cell>
+                     <cell>
+                        <hi>Eaſt-Indies</hi>
+                     </cell>
+                     <cell>February</cell>
+                     <cell>1686.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Allen Browne</hi>
+                     </cell>
+                     <cell>February</cell>
+                     <cell>1680.</cell>
+                     <cell>15</cell>
+                     <cell>3</cell>
+                     <cell>
+                        <hi>Nathaniel Owen</hi>
+                     </cell>
+                     <cell>Joſiah</cell>
+                     <cell>
+                        <hi>Eaſt-Indies</hi>
+                     </cell>
+                     <cell>February</cell>
+                     <cell>1686.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Robert Dorrell</hi>
+                     </cell>
+                     <cell>February</cell>
+                     <cell>1680.</cell>
+                     <cell>15</cell>
+                     <cell>3</cell>
+                     <cell>
+                        <hi>Nicholas Caſely</hi>
+                     </cell>
+                     <cell>Theodora</cell>
+                     <cell>
+                        <hi>Hambrough</hi>
+                     </cell>
+                     <cell>February</cell>
+                     <cell>1686.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Weſt</hi>
+                     </cell>
+                     <cell>March</cell>
+                     <cell>1680.</cell>
+                     <cell>15</cell>
+                     <cell>2</cell>
+                     <cell>
+                        <hi>James Manby</hi>
+                     </cell>
+                     <cell>Arabella</cell>
+                     <cell>
+                        <hi>Barbadoes</hi>
+                     </cell>
+                     <cell>March</cell>
+                     <cell>1686.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Adam Powell</hi>
+                     </cell>
+                     <cell>April</cell>
+                     <cell>1681.</cell>
+                     <cell>15</cell>
+                     <cell>1</cell>
+                     <cell>
+                        <hi>John Caſly</hi>
+                     </cell>
+                     <cell>Succeſs</cell>
+                     <cell>
+                        <hi>Canaries</hi>
+                     </cell>
+                     <cell>April</cell>
+                     <cell>1687.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Pickham</hi>
+                     </cell>
+                     <cell>May</cell>
+                     <cell>1681.</cell>
+                     <cell>14</cell>
+                     <cell>2</cell>
+                     <cell>
+                        <hi>Edmond Scott</hi>
+                     </cell>
+                     <cell>Hare</cell>
+                     <cell>
+                        <hi>Guynny</hi>
+                     </cell>
+                     <cell>May</cell>
+                     <cell>1687.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Feild</hi>
+                     </cell>
+                     <cell>June</cell>
+                     <cell>1681.</cell>
+                     <cell>16</cell>
+                     <cell>2</cell>
+                     <cell>
+                        <hi>George Redſhaw</hi>
+                     </cell>
+                     <cell>Antelope</cell>
+                     <cell>
+                        <hi>Ruſſia</hi>
+                     </cell>
+                     <cell>June</cell>
+                     <cell>1687.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Richard Hart</hi>
+                     </cell>
+                     <cell>July</cell>
+                     <cell>1681.</cell>
+                     <cell>15</cell>
+                     <cell>1</cell>
+                     <cell>
+                        <hi>Joſeph Greaves</hi>
+                     </cell>
+                     <cell>Bohemia Merchant</cell>
+                     <cell>
+                        <hi>Barbadoes</hi>
+                     </cell>
+                     <cell>July</cell>
+                     <cell>1687.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Bartholomew Willey</hi>
+                     </cell>
+                     <cell>July</cell>
+                     <cell>1681.</cell>
+                     <cell>16</cell>
+                     <cell>1</cell>
+                     <cell>
+                        <hi>William Pemerton</hi>
+                     </cell>
+                     <cell>Syria Merchant</cell>
+                     <cell>
+                        <hi>Scandaroon</hi>
+                     </cell>
+                     <cell>July</cell>
+                     <cell>1687.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Guy</hi>
+                     </cell>
+                     <cell>February</cell>
+                     <cell>1681.</cell>
+                     <cell>16</cell>
+                     <cell>0</cell>
+                     <cell>
+                        <hi>Edward Preſtwich</hi>
+                     </cell>
+                     <cell>Falcon</cell>
+                     <cell>
+                        <hi>Eaſt-Indies</hi>
+                     </cell>
+                     <cell>February</cell>
+                     <cell>1687.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Edward Sheldon</hi>
+                     </cell>
+                     <cell>March</cell>
+                     <cell>1681.</cell>
+                     <cell>16</cell>
+                     <cell>1</cell>
+                     <cell>
+                        <hi>Andrew Cratey,</hi> Junior</cell>
+                     <cell>John Bonaventure</cell>
+                     <cell>
+                        <hi>New-England</hi>
+                     </cell>
+                     <cell>March</cell>
+                     <cell>1687.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Daniel Tilſly</hi>
+                     </cell>
+                     <cell>March</cell>
+                     <cell>1681.</cell>
+                     <cell>16</cell>
+                     <cell>1</cell>
+                     <cell>
+                        <hi>John Bonnel</hi>
+                     </cell>
+                     <cell>Loyal Eagle</cell>
+                     <cell>
+                        <hi>Eaſt-Indies</hi>
+                     </cell>
+                     <cell>March</cell>
+                     <cell>1687.</cell>
+                  </row>
+                  <pb facs="tcp:58667:3"/>
+                  <pb facs="tcp:58667:4"/>
+                  <row>
+                     <cell>
+                        <hi>Humphrey Jones</hi>
+                     </cell>
+                     <cell>April</cell>
+                     <cell>1682.</cell>
+                     <cell>15</cell>
+                     <cell>1</cell>
+                     <cell>
+                        <hi>John Gayre</hi>
+                     </cell>
+                     <cell>Society</cell>
+                     <cell>
+                        <hi>Eaſt-Indies</hi>
+                     </cell>
+                     <cell>April</cell>
+                     <cell>1688.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Gutter</hi>
+                     </cell>
+                     <cell>June</cell>
+                     <cell>1682.</cell>
+                     <cell>16</cell>
+                     <cell>0</cell>
+                     <cell>
+                        <hi>John Conſett</hi>
+                     </cell>
+                     <cell>Berkely Caſtle</cell>
+                     <cell>
+                        <hi>Eaſt-Indies</hi>
+                     </cell>
+                     <cell>June</cell>
+                     <cell>1688.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Nathaniel Cooper</hi>
+                     </cell>
+                     <cell>September</cell>
+                     <cell>1682.</cell>
+                     <cell>16</cell>
+                     <cell>0</cell>
+                     <cell>
+                        <hi>Thomas Brown</hi>
+                     </cell>
+                     <cell>Legorn Merchant</cell>
+                     <cell>
+                        <hi>Canaries</hi>
+                     </cell>
+                     <cell>September</cell>
+                     <cell>1688.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Jonathan Prince</hi>
+                     </cell>
+                     <cell>September</cell>
+                     <cell>1682.</cell>
+                     <cell>15</cell>
+                     <cell>1</cell>
+                     <cell>
+                        <hi>Leonard Bower</hi>
+                     </cell>
+                     <cell>Thomas <hi>and</hi> Samuel</cell>
+                     <cell>
+                        <hi>Legorn</hi>
+                     </cell>
+                     <cell>September</cell>
+                     <cell>1688.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Hunt</hi>
+                     </cell>
+                     <cell>September</cell>
+                     <cell>1682.</cell>
+                     <cell>16</cell>
+                     <cell>1</cell>
+                     <cell>
+                        <hi>William Allen</hi>
+                     </cell>
+                     <cell>William <hi>and</hi> Mary</cell>
+                     <cell>
+                        <hi>Streights</hi>
+                     </cell>
+                     <cell>September</cell>
+                     <cell>1688.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Peckover</hi>
+                     </cell>
+                     <cell>September</cell>
+                     <cell>1682.</cell>
+                     <cell>15</cell>
+                     <cell>3</cell>
+                     <cell>
+                        <hi>Joſeph Bartholomew</hi>
+                     </cell>
+                     <cell>Providence</cell>
+                     <cell>
+                        <hi>Jamaica</hi>
+                     </cell>
+                     <cell>September</cell>
+                     <cell>1688.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>George Smith</hi>
+                     </cell>
+                     <cell>October</cell>
+                     <cell>1682.</cell>
+                     <cell>16</cell>
+                     <cell>1</cell>
+                     <cell>
+                        <hi>Leonard Browne</hi>
+                     </cell>
+                     <cell>Anne</cell>
+                     <cell>
+                        <hi>Eaſt-Indies</hi>
+                     </cell>
+                     <cell>October</cell>
+                     <cell>1688.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Richard Crockett</hi>
+                     </cell>
+                     <cell>May</cell>
+                     <cell>1683.</cell>
+                     <cell>16</cell>
+                     <cell>2</cell>
+                     <cell>
+                        <hi>Thomas Hazlewood</hi>
+                     </cell>
+                     <cell>Catharine</cell>
+                     <cell>
+                        <hi>Virginia</hi>
+                     </cell>
+                     <cell>May</cell>
+                     <cell>1689.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Nathaniel Long</hi>
+                     </cell>
+                     <cell>May</cell>
+                     <cell>1683.</cell>
+                     <cell>16</cell>
+                     <cell>3</cell>
+                     <cell>
+                        <hi>Bartholomew Clement</hi>
+                     </cell>
+                     <cell>Roſe <hi>and</hi> Crown</cell>
+                     <cell>
+                        <hi>Virginia</hi>
+                     </cell>
+                     <cell>May</cell>
+                     <cell>1689.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Charles Laughorne</hi>
+                     </cell>
+                     <cell>May</cell>
+                     <cell>1683.</cell>
+                     <cell>16</cell>
+                     <cell>3</cell>
+                     <cell>
+                        <hi>William Jefferies</hi>
+                     </cell>
+                     <cell>Concord</cell>
+                     <cell>
+                        <hi>Virginia</hi>
+                     </cell>
+                     <cell>May</cell>
+                     <cell>1689.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Benjamin Watſon</hi>
+                     </cell>
+                     <cell>June</cell>
+                     <cell>1683.</cell>
+                     <cell>16</cell>
+                     <cell>3</cell>
+                     <cell>
+                        <hi>Peter Paggen</hi>
+                     </cell>
+                     <cell>Booth</cell>
+                     <cell>
+                        <hi>Virginia</hi>
+                     </cell>
+                     <cell>June</cell>
+                     <cell>1689.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Couzens</hi>
+                     </cell>
+                     <cell>July</cell>
+                     <cell>1683.</cell>
+                     <cell>16</cell>
+                     <cell>2</cell>
+                     <cell>
+                        <hi>John Wakelin</hi>
+                     </cell>
+                     <cell>Welcome</cell>
+                     <cell>
+                        <hi>Streights</hi>
+                     </cell>
+                     <cell>July</cell>
+                     <cell>1689.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Croutch</hi>
+                     </cell>
+                     <cell>September</cell>
+                     <cell>1683.</cell>
+                     <cell>16</cell>
+                     <cell>2</cell>
+                     <cell>
+                        <hi>Chriſtopher Gunman</hi>
+                     </cell>
+                     <cell>Mary Yatch</cell>
+                     <cell>
+                        <hi>In His Majeſty's Service</hi>
+                     </cell>
+                     <cell>September</cell>
+                     <cell>1689.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Talbott</hi>
+                     </cell>
+                     <cell>October</cell>
+                     <cell>1683.</cell>
+                     <cell>15</cell>
+                     <cell>2</cell>
+                     <cell>Sir <hi>John Whitwang</hi>
+                     </cell>
+                     <cell>Royal James</cell>
+                     <cell>
+                        <hi>Eaſt-Indies</hi>
+                     </cell>
+                     <cell>October</cell>
+                     <cell>1689.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Chriſtopher Glyn</hi>
+                     </cell>
+                     <cell>October</cell>
+                     <cell>1683.</cell>
+                     <cell>16</cell>
+                     <cell>1</cell>
+                     <cell>
+                        <hi>Francis Wiltſhaw</hi>
+                     </cell>
+                     <cell>Reſolution</cell>
+                     <cell>
+                        <hi>Eaſt-Indies</hi>
+                     </cell>
+                     <cell>October</cell>
+                     <cell>1689.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Samuel Churchman</hi>
+                     </cell>
+                     <cell>December</cell>
+                     <cell>1683.</cell>
+                     <cell>16</cell>
+                     <cell>3</cell>
+                     <cell>
+                        <hi>Edward Leiger</hi>
+                     </cell>
+                     <cell>Sampſon</cell>
+                     <cell>
+                        <hi>Eaſt-Indies</hi>
+                     </cell>
+                     <cell>December</cell>
+                     <cell>1689.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Fiſher</hi>
+                     </cell>
+                     <cell>December</cell>
+                     <cell>1683.</cell>
+                     <cell>16</cell>
+                     <cell>3</cell>
+                     <cell>
+                        <hi>Robert Wouldhave</hi>
+                     </cell>
+                     <cell>John <hi>and</hi> Anne</cell>
+                     <cell>
+                        <hi>Eaſt-Indies</hi>
+                     </cell>
+                     <cell>December</cell>
+                     <cell>1689.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Samuel Davis</hi>
+                     </cell>
+                     <cell>March</cell>
+                     <cell>1684.</cell>
+                     <cell>17</cell>
+                     <cell>0</cell>
+                     <cell>
+                        <hi>John Smith</hi>
+                     </cell>
+                     <cell>Welcome</cell>
+                     <cell>
+                        <hi>Streights</hi>
+                     </cell>
+                     <cell>March</cell>
+                     <cell>1690.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Samuel Mead</hi>
+                     </cell>
+                     <cell>March</cell>
+                     <cell>1684.</cell>
+                     <cell>16</cell>
+                     <cell>2</cell>
+                     <cell>
+                        <hi>William Faceby</hi>
+                     </cell>
+                     <cell>Henrietta Yatch</cell>
+                     <cell>
+                        <hi>In His Majeſty's Service</hi>
+                     </cell>
+                     <cell>March</cell>
+                     <cell>1690.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Richard Wilkinſon</hi>
+                     </cell>
+                     <cell>April</cell>
+                     <cell>1684.</cell>
+                     <cell>17</cell>
+                     <cell>0</cell>
+                     <cell>
+                        <hi>Jonas Leech</hi>
+                     </cell>
+                     <cell>John <hi>and</hi> Elizabeth</cell>
+                     <cell>
+                        <hi>Barbadoes</hi>
+                     </cell>
+                     <cell>April</cell>
+                     <cell>1690.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Michael Boſtock</hi>
+                     </cell>
+                     <cell>September</cell>
+                     <cell>1684.</cell>
+                     <cell>17</cell>
+                     <cell>0</cell>
+                     <cell>
+                        <hi>John Wallis</hi>
+                     </cell>
+                     <cell>Proſperous</cell>
+                     <cell>
+                        <hi>Hambrough</hi>
+                     </cell>
+                     <cell>September</cell>
+                     <cell>1690.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Cooper</hi>
+                     </cell>
+                     <cell>September</cell>
+                     <cell>1684.</cell>
+                     <cell>17</cell>
+                     <cell>2</cell>
+                     <cell>
+                        <hi>James Bonnel</hi>
+                     </cell>
+                     <cell>Shanlois</cell>
+                     <cell>
+                        <hi>Eaſt-Indies</hi>
+                     </cell>
+                     <cell>September</cell>
+                     <cell>1690.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>George Dickinſon</hi>
+                     </cell>
+                     <cell>September</cell>
+                     <cell>1684.</cell>
+                     <cell>17</cell>
+                     <cell>1</cell>
+                     <cell>
+                        <hi>William Swanley</hi>
+                     </cell>
+                     <cell>Succeſs</cell>
+                     <cell>
+                        <hi>Eaſt-Indies</hi>
+                     </cell>
+                     <cell>September</cell>
+                     <cell>1690.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Euclid Baker</hi>
+                     </cell>
+                     <cell>September</cell>
+                     <cell>1684.</cell>
+                     <cell>17</cell>
+                     <cell>2</cell>
+                     <cell>
+                        <hi>William Talbot</hi>
+                     </cell>
+                     <cell>Talbot</cell>
+                     <cell>
+                        <hi>Eaſt-Indies</hi>
+                     </cell>
+                     <cell>September</cell>
+                     <cell>1690.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>James Gibbs</hi>
+                     </cell>
+                     <cell>October</cell>
+                     <cell>1684.</cell>
+                     <cell>16</cell>
+                     <cell>3</cell>
+                     <cell>
+                        <hi>Nehemiah Earning</hi>
+                     </cell>
+                     <cell>George</cell>
+                     <cell>
+                        <hi>Eaſt-Indies</hi>
+                     </cell>
+                     <cell>October</cell>
+                     <cell>1690.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Samuel Gillman</hi>
+                     </cell>
+                     <cell>November</cell>
+                     <cell>1684.</cell>
+                     <cell>16</cell>
+                     <cell>3</cell>
+                     <cell>
+                        <hi>Henry <g ref="char:V">Ʋ</g>dall</hi>
+                     </cell>
+                     <cell>Herbert</cell>
+                     <cell>
+                        <hi>Eaſt-Indies</hi>
+                     </cell>
+                     <cell>November</cell>
+                     <cell>1690.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Henry Burnby</hi>
+                     </cell>
+                     <cell>November</cell>
+                     <cell>1684.</cell>
+                     <cell>17</cell>
+                     <cell>2</cell>
+                     <cell>
+                        <hi>Thomas Woodcock</hi>
+                     </cell>
+                     <cell>Scipio African</cell>
+                     <cell>
+                        <hi>Eaſt-Indies</hi>
+                     </cell>
+                     <cell>November</cell>
+                     <cell>1690.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Joſiah Clayton</hi>
+                     </cell>
+                     <cell>March</cell>
+                     <cell>1684.</cell>
+                     <cell>16</cell>
+                     <cell>2</cell>
+                     <cell>
+                        <hi>Nathaniel Owen</hi>
+                     </cell>
+                     <cell>Joſiah</cell>
+                     <cell>
+                        <hi>Eaſt-Indies</hi>
+                     </cell>
+                     <cell>March</cell>
+                     <cell>1690.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Anthony Paine</hi>
+                     </cell>
+                     <cell>May</cell>
+                     <cell>1685.</cell>
+                     <cell>15</cell>
+                     <cell>3</cell>
+                     <cell>
+                        <hi>Thomas Aubone</hi>
+                     </cell>
+                     <cell>Hopewell</cell>
+                     <cell>
+                        <hi>Barbadoes</hi>
+                     </cell>
+                     <cell>May</cell>
+                     <cell>1691.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Trippett</hi>
+                     </cell>
+                     <cell>July</cell>
+                     <cell>1685.</cell>
+                     <cell>16</cell>
+                     <cell>1</cell>
+                     <cell>
+                        <hi>Benjamin Hall</hi>
+                     </cell>
+                     <cell>William <hi>and</hi> Mary</cell>
+                     <cell>
+                        <hi>Virginia</hi>
+                     </cell>
+                     <cell>July</cell>
+                     <cell>1691.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Abel Barnard</hi>
+                     </cell>
+                     <cell>Auguſt</cell>
+                     <cell>1685.</cell>
+                     <cell>17</cell>
+                     <cell>0</cell>
+                     <cell>
+                        <hi>Thomas Gardner</hi>
+                     </cell>
+                     <cell>Fortune</cell>
+                     <cell>
+                        <hi>Virginia</hi>
+                     </cell>
+                     <cell>Auguſt</cell>
+                     <cell>1691.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Varney</hi>
+                     </cell>
+                     <cell>Auguſt</cell>
+                     <cell>1685.</cell>
+                     <cell>17</cell>
+                     <cell>1</cell>
+                     <cell>
+                        <hi>William Gilbert</hi>
+                     </cell>
+                     <cell>Miriam</cell>
+                     <cell>
+                        <hi>Oporto</hi>
+                     </cell>
+                     <cell>Auguſt</cell>
+                     <cell>1691.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Benjamin Bayly</hi>
+                     </cell>
+                     <cell>November</cell>
+                     <cell>1685.</cell>
+                     <cell>17</cell>
+                     <cell>0</cell>
+                     <cell>
+                        <hi>John Jewell</hi>
+                     </cell>
+                     <cell>Expedition</cell>
+                     <cell>
+                        <hi>Streights</hi>
+                     </cell>
+                     <cell>November</cell>
+                     <cell>1691.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Cliffe</hi>
+                     </cell>
+                     <cell>November</cell>
+                     <cell>1685.</cell>
+                     <cell>16</cell>
+                     <cell>0</cell>
+                     <cell>
+                        <hi>John Bromewell</hi>
+                     </cell>
+                     <cell>Rocheſter</cell>
+                     <cell>
+                        <hi>Eaſt-Indies</hi>
+                     </cell>
+                     <cell>November</cell>
+                     <cell>1691.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Craine</hi>
+                     </cell>
+                     <cell>November</cell>
+                     <cell>1685.</cell>
+                     <cell>17</cell>
+                     <cell>0</cell>
+                     <cell>
+                        <hi>John Nicholſon</hi>
+                     </cell>
+                     <cell>Beaufort</cell>
+                     <cell>
+                        <hi>Eaſt-Indies</hi>
+                     </cell>
+                     <cell>November</cell>
+                     <cell>1691.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Wiſe</hi>
+                     </cell>
+                     <cell>November</cell>
+                     <cell>1685.</cell>
+                     <cell>15</cell>
+                     <cell>2</cell>
+                     <cell>
+                        <hi>Arthur Smith</hi>
+                     </cell>
+                     <cell>Amity</cell>
+                     <cell>
+                        <hi>Weſt-Indies</hi>
+                     </cell>
+                     <cell>November</cell>
+                     <cell>1691.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Fiſher</hi>
+                     </cell>
+                     <cell>November</cell>
+                     <cell>1685.</cell>
+                     <cell>17</cell>
+                     <cell>0</cell>
+                     <cell>
+                        <hi>John Maſon</hi>
+                     </cell>
+                     <cell>Nathaniel</cell>
+                     <cell>
+                        <hi>Eaſt-Indies</hi>
+                     </cell>
+                     <cell>November</cell>
+                     <cell>1691.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Cole</hi>
+                     </cell>
+                     <cell>February</cell>
+                     <cell>1685.</cell>
+                     <cell>16</cell>
+                     <cell>0</cell>
+                     <cell>
+                        <hi>Matthew Yates</hi>
+                     </cell>
+                     <cell>Delight</cell>
+                     <cell>
+                        <hi>Stockholme,</hi> &amp;c.</cell>
+                     <cell>February</cell>
+                     <cell>1691.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Davis</hi>
+                     </cell>
+                     <cell>March</cell>
+                     <cell>1685.</cell>
+                     <cell>16</cell>
+                     <cell>3</cell>
+                     <cell>
+                        <hi>John Benſon</hi>
+                     </cell>
+                     <cell>Scipio African</cell>
+                     <cell>
+                        <hi>Barbadoes</hi>
+                     </cell>
+                     <cell>March</cell>
+                     <cell>1691.</cell>
+                  </row>
+                  <pb facs="tcp:58667:4"/>
+                  <pb facs="tcp:58667:5"/>
+                  <row>
+                     <cell>
+                        <hi>James Leigh</hi>
+                     </cell>
+                     <cell>March</cell>
+                     <cell>1685.</cell>
+                     <cell>16</cell>
+                     <cell>0</cell>
+                     <cell>
+                        <hi>Jonathan Andrews</hi>
+                     </cell>
+                     <cell>Royal Charles</cell>
+                     <cell>
+                        <hi>Eaſt-Indies</hi>
+                     </cell>
+                     <cell>March</cell>
+                     <cell>1691.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Browne</hi>
+                     </cell>
+                     <cell>May</cell>
+                     <cell>1686.</cell>
+                     <cell>15</cell>
+                     <cell>0</cell>
+                     <cell>
+                        <hi>Chriſtopher Kebell</hi>
+                     </cell>
+                     <cell>Vealz Merchant</cell>
+                     <cell>
+                        <hi>New-England</hi>
+                     </cell>
+                     <cell>May</cell>
+                     <cell>1692.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Jacob Ward</hi>
+                     </cell>
+                     <cell>May</cell>
+                     <cell>1686.</cell>
+                     <cell>15</cell>
+                     <cell>2</cell>
+                     <cell>
+                        <hi>Leonard Browne</hi>
+                     </cell>
+                     <cell>Anne</cell>
+                     <cell>
+                        <hi>Jamaica</hi>
+                     </cell>
+                     <cell>May</cell>
+                     <cell>1692.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Lucas</hi>
+                     </cell>
+                     <cell>May</cell>
+                     <cell>1686.</cell>
+                     <cell>16</cell>
+                     <cell>3</cell>
+                     <cell>
+                        <hi>Nicholas Caſeley</hi>
+                     </cell>
+                     <cell>Prince George</cell>
+                     <cell>
+                        <hi>Streights</hi>
+                     </cell>
+                     <cell>May</cell>
+                     <cell>1692.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Charles Barcock</hi>
+                     </cell>
+                     <cell>October</cell>
+                     <cell>1686.</cell>
+                     <cell>17</cell>
+                     <cell>2</cell>
+                     <cell>
+                        <hi>William Perſe</hi>
+                     </cell>
+                     <cell>Bengall Merchant</cell>
+                     <cell>
+                        <hi>Eaſt-Indies</hi>
+                     </cell>
+                     <cell>October</cell>
+                     <cell>1692.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John White</hi>
+                     </cell>
+                     <cell>October</cell>
+                     <cell>1686.</cell>
+                     <cell>16</cell>
+                     <cell>1</cell>
+                     <cell>
+                        <hi>Thomas Warren</hi>
+                     </cell>
+                     <cell>Society</cell>
+                     <cell>
+                        <hi>Barbadoes</hi>
+                     </cell>
+                     <cell>October</cell>
+                     <cell>1692.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Coulter</hi>
+                     </cell>
+                     <cell>October</cell>
+                     <cell>1686.</cell>
+                     <cell>14</cell>
+                     <cell>1</cell>
+                     <cell>
+                        <hi>David Biſhop</hi>
+                     </cell>
+                     <cell>Loyal James</cell>
+                     <cell>
+                        <hi>Streights</hi>
+                     </cell>
+                     <cell>October</cell>
+                     <cell>1692.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Evans</hi>
+                     </cell>
+                     <cell>December</cell>
+                     <cell>1686.</cell>
+                     <cell>15</cell>
+                     <cell>2</cell>
+                     <cell>
+                        <hi>Joſeph Haddock</hi>
+                     </cell>
+                     <cell>Royal Anne Pr. of Denmark</cell>
+                     <cell>
+                        <hi>Eaſt-Indies</hi>
+                     </cell>
+                     <cell>December</cell>
+                     <cell>1692.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Dighton</hi>
+                     </cell>
+                     <cell>April</cell>
+                     <cell>1687.</cell>
+                     <cell>17</cell>
+                     <cell>1</cell>
+                     <cell>
+                        <hi>Peter Daniel</hi>
+                     </cell>
+                     <cell>Terra Nova</cell>
+                     <cell>
+                        <hi>Smyrna</hi>
+                     </cell>
+                     <cell>April</cell>
+                     <cell>1693.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Matthew Woadington</hi>
+                     </cell>
+                     <cell>June</cell>
+                     <cell>1687.</cell>
+                     <cell>17</cell>
+                     <cell>2</cell>
+                     <cell>
+                        <hi>John Bonnell</hi>
+                     </cell>
+                     <cell>Shanlois</cell>
+                     <cell>
+                        <hi>Eaſt-Indies</hi>
+                     </cell>
+                     <cell>June</cell>
+                     <cell>1693.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Edward Green</hi>
+                     </cell>
+                     <cell>July</cell>
+                     <cell>1687.</cell>
+                     <cell>17</cell>
+                     <cell>1</cell>
+                     <cell>
+                        <hi>John Harding</hi>
+                     </cell>
+                     <cell>Loyal Merchant</cell>
+                     <cell>
+                        <hi>Eaſt-Indies</hi>
+                     </cell>
+                     <cell>July</cell>
+                     <cell>1693.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Peter Comerford</hi>
+                     </cell>
+                     <cell>November</cell>
+                     <cell>1687.</cell>
+                     <cell>17</cell>
+                     <cell>0</cell>
+                     <cell>
+                        <hi>John Gaire</hi>
+                     </cell>
+                     <cell>Joſiah</cell>
+                     <cell>
+                        <hi>Eaſt-Indies</hi>
+                     </cell>
+                     <cell>November</cell>
+                     <cell>1693.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Roe</hi>
+                     </cell>
+                     <cell>November</cell>
+                     <cell>1687.</cell>
+                     <cell>15</cell>
+                     <cell>1</cell>
+                     <cell>
+                        <hi>William Reve</hi>
+                     </cell>
+                     <cell>Return</cell>
+                     <cell>
+                        <hi>Streights</hi>
+                     </cell>
+                     <cell>November</cell>
+                     <cell>1693.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Joſiah Meruihurſt</hi>
+                     </cell>
+                     <cell>December</cell>
+                     <cell>1687.</cell>
+                     <cell>16</cell>
+                     <cell>0</cell>
+                     <cell>
+                        <hi>Stephen Barber</hi>
+                     </cell>
+                     <cell>Mary</cell>
+                     <cell>
+                        <hi>Eaſt-Indies</hi>
+                     </cell>
+                     <cell>December</cell>
+                     <cell>1693.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Aſh</hi>
+                     </cell>
+                     <cell>December</cell>
+                     <cell>1687.</cell>
+                     <cell>17</cell>
+                     <cell>1</cell>
+                     <cell>
+                        <hi>William Heath</hi>
+                     </cell>
+                     <cell>Defence</cell>
+                     <cell>
+                        <hi>Eaſt-Indies</hi>
+                     </cell>
+                     <cell>December</cell>
+                     <cell>1693.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Richard Thomas</hi>
+                     </cell>
+                     <cell>December</cell>
+                     <cell>1687.</cell>
+                     <cell>17</cell>
+                     <cell>0</cell>
+                     <cell>
+                        <hi>Daniel Parſons</hi>
+                     </cell>
+                     <cell>Arabella</cell>
+                     <cell>
+                        <hi>Streights</hi>
+                     </cell>
+                     <cell>December</cell>
+                     <cell>1693.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Robert Glynn</hi>
+                     </cell>
+                     <cell>December</cell>
+                     <cell>1687.</cell>
+                     <cell>15</cell>
+                     <cell>0</cell>
+                     <cell>
+                        <hi>John Arther</hi>
+                     </cell>
+                     <cell>Ruth</cell>
+                     <cell>
+                        <hi>Streights</hi>
+                     </cell>
+                     <cell>December</cell>
+                     <cell>1693.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Jeoffry Mires</hi>
+                     </cell>
+                     <cell>January</cell>
+                     <cell>1687.</cell>
+                     <cell>17</cell>
+                     <cell>1</cell>
+                     <cell>
+                        <hi>John Froeſt</hi>
+                     </cell>
+                     <cell>Aleppo</cell>
+                     <cell>
+                        <hi>Smyrna</hi>
+                     </cell>
+                     <cell>January</cell>
+                     <cell>1694.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Daglas</hi>
+                     </cell>
+                     <cell>April</cell>
+                     <cell>1688.</cell>
+                     <cell>18</cell>
+                     <cell>0</cell>
+                     <cell>
+                        <hi>Benjamin Brangway</hi>
+                     </cell>
+                     <cell>Perſia Merchant</cell>
+                     <cell>
+                        <hi>Eaſt-Indies</hi>
+                     </cell>
+                     <cell>April</cell>
+                     <cell>1694.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Field</hi>
+                     </cell>
+                     <cell>April</cell>
+                     <cell>1688.</cell>
+                     <cell>16</cell>
+                     <cell>3</cell>
+                     <cell>
+                        <hi>Richard Etherington</hi>
+                     </cell>
+                     <cell>Shrewsbury</cell>
+                     <cell>
+                        <hi>Eaſt-Indies</hi>
+                     </cell>
+                     <cell>April</cell>
+                     <cell>1694.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Robert Thacker</hi>
+                     </cell>
+                     <cell>April</cell>
+                     <cell>1688.</cell>
+                     <cell>17</cell>
+                     <cell>1</cell>
+                     <cell>
+                        <hi>John Casby</hi>
+                     </cell>
+                     <cell>Royal Mary</cell>
+                     <cell>
+                        <hi>Streights</hi>
+                     </cell>
+                     <cell>April</cell>
+                     <cell>1694.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Charles Barksdale</hi>
+                     </cell>
+                     <cell>Auguſt</cell>
+                     <cell>1688.</cell>
+                     <cell>17</cell>
+                     <cell>2</cell>
+                     <cell>
+                        <hi>John Kempthorne</hi>
+                     </cell>
+                     <cell>Kempthorne</cell>
+                     <cell>
+                        <hi>Eaſt-Indies</hi>
+                     </cell>
+                     <cell>Auguſt</cell>
+                     <cell>1694.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dawes Langhorne</hi>
+                     </cell>
+                     <cell>Auguſt</cell>
+                     <cell>1688.</cell>
+                     <cell>18</cell>
+                     <cell>0</cell>
+                     <cell>
+                        <hi>John Hoſea</hi>
+                     </cell>
+                     <cell>Armenian Merchant</cell>
+                     <cell>
+                        <hi>Eaſt-Indies</hi>
+                     </cell>
+                     <cell>Auguſt</cell>
+                     <cell>1694.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Anthony Eales</hi>
+                     </cell>
+                     <cell>Auguſt</cell>
+                     <cell>1688.</cell>
+                     <cell>17</cell>
+                     <cell>3</cell>
+                     <cell>
+                        <hi>Benjamin King</hi>
+                     </cell>
+                     <cell>Conſtant Richard</cell>
+                     <cell>
+                        <hi>Barbadoes</hi>
+                     </cell>
+                     <cell>Auguſt</cell>
+                     <cell>1694.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Roger Lawrence</hi>
+                     </cell>
+                     <cell>November</cell>
+                     <cell>1688.</cell>
+                     <cell>17</cell>
+                     <cell>2</cell>
+                     <cell>
+                        <hi>George Phenney</hi>
+                     </cell>
+                     <cell>Streights Merchant</cell>
+                     <cell>
+                        <hi>Streights</hi>
+                     </cell>
+                     <cell>November</cell>
+                     <cell>1694.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Hutchins</hi>
+                     </cell>
+                     <cell>November</cell>
+                     <cell>1688.</cell>
+                     <cell>17</cell>
+                     <cell>1</cell>
+                     <cell>
+                        <hi>John Clement</hi>
+                     </cell>
+                     <cell>Yatch</cell>
+                     <cell>
+                        <hi>In His Majeſty's Service</hi>
+                     </cell>
+                     <cell>November</cell>
+                     <cell>1694.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Ezekiel Muller</hi>
+                     </cell>
+                     <cell>January</cell>
+                     <cell>1688.</cell>
+                     <cell>17</cell>
+                     <cell>3</cell>
+                     <cell>
+                        <hi>Robert Lurting</hi>
+                     </cell>
+                     <cell>Young Prince</cell>
+                     <cell>
+                        <hi>Virginia</hi>
+                     </cell>
+                     <cell>January</cell>
+                     <cell>1694.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Paul Paine</hi>
+                     </cell>
+                     <cell>January</cell>
+                     <cell>1688.</cell>
+                     <cell>17</cell>
+                     <cell>0</cell>
+                     <cell>
+                        <hi>Thomas Burrell</hi>
+                     </cell>
+                     <cell>Turkey Merchant</cell>
+                     <cell>
+                        <hi>Weſt-Indies</hi>
+                     </cell>
+                     <cell>January</cell>
+                     <cell>1694.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Henry Conway</hi>
+                     </cell>
+                     <cell>April</cell>
+                     <cell>1689.</cell>
+                     <cell>15</cell>
+                     <cell>2</cell>
+                     <cell>
+                        <hi>Leonard Edgecomb</hi>
+                     </cell>
+                     <cell>Royal Hudſons Bay Frygot</cell>
+                     <cell>
+                        <hi>Hudſon's Bay</hi>
+                     </cell>
+                     <cell>April</cell>
+                     <cell>1695.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Rogers</hi>
+                     </cell>
+                     <cell>April</cell>
+                     <cell>1689.</cell>
+                     <cell>17</cell>
+                     <cell>2</cell>
+                     <cell>
+                        <hi>John Brome</hi>
+                     </cell>
+                     <cell>Ruth</cell>
+                     <cell>
+                        <hi>Barbadoes</hi>
+                     </cell>
+                     <cell>April</cell>
+                     <cell>1695.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>George Souch</hi>
+                     </cell>
+                     <cell>May</cell>
+                     <cell>1689.</cell>
+                     <cell>17</cell>
+                     <cell>1</cell>
+                     <cell>
+                        <hi>Charles Cotterell</hi>
+                     </cell>
+                     <cell>Tyger</cell>
+                     <cell>
+                        <hi>Streights</hi>
+                     </cell>
+                     <cell>May</cell>
+                     <cell>1695.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Andrew Staizley</hi>
+                     </cell>
+                     <cell>May</cell>
+                     <cell>1689.</cell>
+                     <cell>17</cell>
+                     <cell>2</cell>
+                     <cell>
+                        <hi>Edward Barrett</hi>
+                     </cell>
+                     <cell>Hunter</cell>
+                     <cell>
+                        <hi>Streights</hi>
+                     </cell>
+                     <cell>May</cell>
+                     <cell>1695.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Samuel Edwards</hi>
+                     </cell>
+                     <cell>July</cell>
+                     <cell>1689.</cell>
+                     <cell>17</cell>
+                     <cell>0</cell>
+                     <cell>
+                        <hi>Stephen Carkett</hi>
+                     </cell>
+                     <cell>Charity</cell>
+                     <cell>
+                        <hi>Weſt-Indies</hi>
+                     </cell>
+                     <cell>July</cell>
+                     <cell>1695.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Samuel Lee</hi>
+                     </cell>
+                     <cell>July</cell>
+                     <cell>1689.</cell>
+                     <cell>18</cell>
+                     <cell>1</cell>
+                     <cell>
+                        <hi>William Chantrell</hi>
+                     </cell>
+                     <cell>Katharine</cell>
+                     <cell>
+                        <hi>Guynny</hi>
+                     </cell>
+                     <cell>July</cell>
+                     <cell>1695.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Sadler</hi>
+                     </cell>
+                     <cell>July</cell>
+                     <cell>1689.</cell>
+                     <cell>18</cell>
+                     <cell>2</cell>
+                     <cell>
+                        <hi>John Williams</hi>
+                     </cell>
+                     <cell>Richard <hi>and</hi> Michael</cell>
+                     <cell>
+                        <hi>Barbadoes</hi>
+                     </cell>
+                     <cell>July</cell>
+                     <cell>1695.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Hooke</hi>
+                     </cell>
+                     <cell>Auguſt</cell>
+                     <cell>1689.</cell>
+                     <cell>15</cell>
+                     <cell>2</cell>
+                     <cell>
+                        <hi>Michael Staples</hi>
+                     </cell>
+                     <cell>Edward <hi>and</hi> Mary</cell>
+                     <cell>
+                        <hi>Weſt-Indies</hi>
+                     </cell>
+                     <cell>Auguſt</cell>
+                     <cell>1695.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Cherrington</hi>
+                     </cell>
+                     <cell>Auguſt</cell>
+                     <cell>1689.</cell>
+                     <cell>16</cell>
+                     <cell>0</cell>
+                     <cell>
+                        <hi>James Smith</hi>
+                     </cell>
+                     <cell>Seidgwick</cell>
+                     <cell>
+                        <hi>Barbadoes,</hi> &amp;c.</cell>
+                     <cell>Auguſt</cell>
+                     <cell>1695.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Bickers</hi>
+                     </cell>
+                     <cell>Auguſt</cell>
+                     <cell>1689.</cell>
+                     <cell>16</cell>
+                     <cell>3</cell>
+                     <cell>
+                        <hi>Thomas Read</hi>
+                     </cell>
+                     <cell>Johanna</cell>
+                     <cell>
+                        <hi>Streights</hi>
+                     </cell>
+                     <cell>Auguſt</cell>
+                     <cell>1695.</cell>
+                  </row>
+               </table>
+            </p>
+            <pb facs="tcp:58667:5"/>
+         </div>
+         <div type="table">
+            <pb facs="tcp:58667:6"/>
+            <head>The <hi>FORTY CHILDREN,</hi> at this Day en<g ref="char:EOLhyphen"/>joying the <hi>BO<g ref="char:V">Ʋ</g>NTY</hi> of King <hi>CHARLES</hi> II. within the ſaid <hi>HOSPITAL,</hi> with their pre<g ref="char:EOLhyphen"/>ſent <hi>AGE.</hi>
+            </head>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label" rows="2">CHILDREN.</cell>
+                     <cell role="label" cols="2">AGE.</cell>
+                  </row>
+                  <row>
+                     <cell role="label">
+                        <hi>Years.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Quart.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>NIcholas Williamſon</hi>
+                     </cell>
+                     <cell>17</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John French</hi>
+                     </cell>
+                     <cell>17</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Francis Booth</hi>
+                     </cell>
+                     <cell>16</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Tranter</hi>
+                     </cell>
+                     <cell>16</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Joſeph Wallis</hi>
+                     </cell>
+                     <cell>17</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Eldred</hi>
+                     </cell>
+                     <cell>17</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Edmond Eden</hi>
+                     </cell>
+                     <cell>17</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Vale</hi>
+                     </cell>
+                     <cell>15</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Goſſe</hi>
+                     </cell>
+                     <cell>15</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Edward Wilton</hi>
+                     </cell>
+                     <cell>16</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Roger Wiſe</hi>
+                     </cell>
+                     <cell>15</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Nathan Gaſe</hi>
+                     </cell>
+                     <cell>15</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Jeoffrey Atkinſon</hi>
+                     </cell>
+                     <cell>14</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Wharey</hi>
+                     </cell>
+                     <cell>16</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Manton</hi>
+                     </cell>
+                     <cell>15</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John March</hi>
+                     </cell>
+                     <cell>15</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Ratcliff</hi>
+                     </cell>
+                     <cell>14</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Swetnam</hi>
+                     </cell>
+                     <cell>15</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Henry Parſons</hi>
+                     </cell>
+                     <cell>15</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Edward Jones</hi>
+                     </cell>
+                     <cell>16</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Pickering</hi>
+                     </cell>
+                     <cell>15</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Panks</hi>
+                     </cell>
+                     <cell>14</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Rowland</hi>
+                     </cell>
+                     <cell>15</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Benjamin Wallington</hi>
+                     </cell>
+                     <cell>15</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Moore</hi>
+                     </cell>
+                     <cell>15</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Haſlope</hi>
+                     </cell>
+                     <cell>15</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Greenfield</hi>
+                     </cell>
+                     <cell>15</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Henry Knight</hi>
+                     </cell>
+                     <cell>15</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Iſaac Sheldon</hi>
+                     </cell>
+                     <cell>14</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Francis Croft</hi>
+                     </cell>
+                     <cell>14</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Moore</hi>
+                     </cell>
+                     <cell>14</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Rickets</hi>
+                     </cell>
+                     <cell>14</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Robert Winter</hi>
+                     </cell>
+                     <cell>14</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>James Myers</hi>
+                     </cell>
+                     <cell>14</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Hill</hi>
+                     </cell>
+                     <cell>13</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Joſeph Miller</hi>
+                     </cell>
+                     <cell>14</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Edward Bond</hi>
+                     </cell>
+                     <cell>14</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John George</hi>
+                     </cell>
+                     <cell>14</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Richard Winn</hi>
+                     </cell>
+                     <cell>15</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Sproſton</hi>
+                     </cell>
+                     <cell>14</cell>
+                     <cell>2</cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
